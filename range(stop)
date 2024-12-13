@@ -1,1 +1,3 @@
-forloop range(stop)
+#forloop range(stop)
+for x in range(4):
+    print(x)
